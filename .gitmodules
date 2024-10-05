@@ -1,0 +1,3 @@
+[submodule "FDS"]
+	path = FDS
+	url = git@github.com:mukhinmish/FDS.git
